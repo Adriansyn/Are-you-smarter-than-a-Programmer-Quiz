@@ -76,5 +76,3 @@ function endOfQuiz() {
 
 document.querySelector("#start").addEventListener("click", startQuiz);
 
-//recursivity js investigate 
-// bind function js investigate
