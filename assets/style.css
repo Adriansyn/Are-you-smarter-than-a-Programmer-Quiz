@@ -1,0 +1,58 @@
+body {
+max-width: 500px;
+margin: auto;
+}
+
+header {
+font-size: 50px;
+font-style: bold;
+font-family: 'Courier New', Courier, monospace;
+color:red;
+}
+ /* style start button */ 
+#start {
+background-color: aqua;
+border-radius: 12px;
+padding: 15px 32px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+}
+ /* style cowntdown timer */ 
+#timer {
+font-size: 20px;
+background-color: aqua;
+border-radius: 12px;
+text-align: center;
+}
+ /* style questions */ 
+#question {
+font-size: 50px;
+font-style: bold;
+font-family: 'Courier New', Courier, monospace;
+color:blue
+}
+ /* style answers section */ 
+#answers{
+display:inline-block;
+padding:0.3em 1.2em;
+margin:0 0.3em 0.3em 0;
+border-radius:2em;
+box-sizing: border-box;
+text-decoration:none;
+font-family:'Roboto',sans-serif;
+font-weight:300;
+color:#FFFFFF;
+background-color:#4eb5f1;
+text-align:center;
+transition: all 0.2s;   
+}
+ /* style for final score at end of quiz */ 
+#score {
+font-size: 20px;
+background-color: aqua;
+border-radius: 12px;
+text-align: center;
+}
+
+
